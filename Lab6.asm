@@ -1,11 +1,11 @@
 #Experiencia 6 Laboratorio EDECO
-#Autores: Estefania Atenas y Francisco Díaz
+#Autores: Estefania Atenas y Francisco DÃ­az
 #
 
 
 
 .data
-Message: .asciiz ""
+Message: .asciiz "guyuui"
 Message0: .asciiz ""
 Message1: .asciiz ""
 .text
